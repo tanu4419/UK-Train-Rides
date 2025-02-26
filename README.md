@@ -15,8 +15,6 @@ The goal of this project was to analyze data from the UK train network to improv
 - Reduce Delays: Identify the main causes of train delays to improve punctuality.
 
 ### Key Challenges
-- Data Quality Issues: The dataset had missing values and inconsistencies, requiring data cleaning.
-- Complex Analysis: Integrated multiple tables (Tickets, Routes, Passengers) to analyze travel patterns and revenue trends.
 - Peak Travel Identification: Needed to break down data by hour and season to find peak travel times.
 
 ## Tools & Technologies Used
